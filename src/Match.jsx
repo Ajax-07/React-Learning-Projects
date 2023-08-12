@@ -7,7 +7,7 @@ function Match(props) {
         <span>
           {props.x} {props.y} {props.z}
         </span>
-        <p style={{color:props.color}}>This is mathching</p>
+        <p style={{ color: props.color }}>This is mathching</p>
       </div>
       <hr />
     </>

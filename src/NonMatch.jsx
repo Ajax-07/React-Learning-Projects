@@ -7,7 +7,7 @@ function NonMatch(props) {
         <span>
           {props.x} {props.y} {props.z}
         </span>
-        <p style={{color:props.color}}>This is Not mathching</p>
+        <p style={{ color: props.color }}>This is Not mathching</p>
       </div>
       <hr />
     </>
